@@ -1,0 +1,5 @@
+.app { text-align: center; padding: 2rem; font-family: Arial; max-width: 600px; margin: 0 auto; } 
+.form-container { margin: 2rem 0; } 
+input[type="file"] { margin: 1rem 0; display: block; } 
+button { padding: 0.7rem 1.5rem; font-size: 1rem; background: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; } 
+button:disabled { background: #ccc; cursor: not-allowed; } 
