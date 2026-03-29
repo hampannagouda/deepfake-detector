@@ -90,3 +90,5 @@ deepfake-detector/
 ├── .gitignore        # Ignored files definition
 └── README.md         # Project documentation
 ```
+# Deepfake Detector title
+This project is designed to combat the spread of manipulated media by providing a robust, full-stack deepfake detection platform. By utilizing cutting-edge computer vision libraries like OpenCV and MediaPipe on a high-performance FastAPI backend, the system analyzes facial features and media artifacts to detect inconsistencies often found in deepfakes. The user experience is powered by a fast, responsive React frontend built with Vite, ensuring seamless media uploads and real-time analysis results.
